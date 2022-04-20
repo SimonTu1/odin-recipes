@@ -1,0 +1,22 @@
+html, body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+body {
+    margin-top: 5em;
+    background-color: lightgrey;
+}
+li a {
+   text-decoration: none;
+}
+
+img {
+    min-width: 70%;
+}
+
+button a {
+    text-decoration: none;
+}
